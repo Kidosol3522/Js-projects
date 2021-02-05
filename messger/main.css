@@ -1,0 +1,10 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #88d5e9;
+    color: #333;
+    font-family: 'calibri', sans-serif;
+    font-weight: 400;
+}
